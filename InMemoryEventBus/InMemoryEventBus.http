@@ -1,0 +1,4 @@
+@InMemoryEventBus_HostAddress = http://localhost:5215
+
+### 200 OK
+DELETE {{InMemoryEventBus_HostAddress}}/workout_delete?workoutId=CC0479AC-459F-463A-AAB7-3257F6642C8D
